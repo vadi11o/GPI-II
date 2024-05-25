@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2024-05-23T21:53:26.793">
+<file name="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/component/cover/ServerConfigurationService.java">
+<violation beginline="51" endline="53" begincolumn="4" endcolumn="76" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getInstance" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="70" endline="70" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getServerId" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="78" endline="78" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getServerInstance" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="86" endline="86" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getServerIdInstance" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="94" endline="94" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getServerName" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="102" endline="102" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getServerUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="110" endline="110" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getAccessUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="118" endline="118" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getAccessPath" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="126" endline="126" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getHelpUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="134" endline="134" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getPortalUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="142" endline="142" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="150" endline="150" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getGatewaySiteId" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="158" endline="158" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getLoggedOutUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="166" endline="166" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getUserHomeUrl" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="174" endline="174" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getSakaiHomePath" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="182" endline="182" begincolumn="3" endcolumn="36" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getBoolean" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="190" endline="190" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getString" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="198" endline="198" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getString" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="206" endline="206" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getStrings" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="214" endline="214" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolOrder" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="229" endline="229" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolsRequired" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="244" endline="244" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getCategoryGroups" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="256" endline="256" begincolumn="3" endcolumn="36" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="toolGroupIsSelected" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="267" endline="267" begincolumn="3" endcolumn="36" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="toolGroupIsRequired" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="274" endline="274" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolGroup" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="282" endline="282" begincolumn="3" endcolumn="35" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getDefaultTools" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="290" endline="290" begincolumn="3" endcolumn="32" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getInt" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="305" endline="305" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolCategories" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="318" endline="318" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolCategoriesAsMap" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="331" endline="331" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getToolToCategoryMap" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="338" endline="338" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getSmtpFrom" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="345" endline="345" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getSmtpPort" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="352" endline="352" begincolumn="7" endcolumn="39" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.component.cover" class="ServerConfigurationService" method="getSmtpServer" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/modi/Configuration.java">
+<violation beginline="108" endline="109" begincolumn="9" endcolumn="69" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.modi" class="Configuration" method="validate" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/modi/Environment.java">
+<violation beginline="135" endline="135" begincolumn="9" endcolumn="33" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.modi" class="Environment" method="ensureSecurity" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="136" endline="136" begincolumn="9" endcolumn="91" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.modi" class="Environment" method="ensureSecurity" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="168" endline="169" begincolumn="13" endcolumn="44" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.modi" class="Environment" method="createHomeIfNeeded" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="178" endline="179" begincolumn="9" endcolumn="47" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.modi" class="Environment" method="checkHomeReadWrite" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/util/BasicConfigHistory.java">
+<violation beginline="118" endline="119" begincolumn="9" endcolumn="24" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="120" endline="121" begincolumn="9" endcolumn="25" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="122" endline="123" begincolumn="9" endcolumn="25" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="126" endline="127" begincolumn="13" endcolumn="29" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="128" endline="129" begincolumn="16" endcolumn="25" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="130" endline="131" begincolumn="9" endcolumn="25" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="BasicConfigHistory" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<file name="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/util/SakaiProperties.java">
+<violation beginline="150" endline="150" begincolumn="13" endcolumn="86" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="SakaiProperties" method="getRawProperties" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="356" endline="356" begincolumn="13" endcolumn="96" rule="IfStmtsMustUseBraces" ruleset="Code Style" package="org.sakaiproject.util" class="SakaiProperties$SakaiPropertiesFactoryBean" method="mergeProperties" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#ifstmtsmustusebraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+</file>
+<error filename="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/SpringCompMgr.java" msg="PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/SpringCompMgr.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/component/impl/SpringCompMgr.java
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:85)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:29)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 49147 out of bounds for length 11795
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.sourceforge.pmd.lang.java.typeresolution.PMDASMClassLoader.getImportedClasses(PMDASMClassLoader.java:118)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.populateClassName(ClassTypeResolver.java:1617)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.visit(ClassTypeResolver.java:214)
+	at net.sourceforge.pmd.lang.java.ast.ASTCompilationUnit.jjtAccept(ASTCompilationUnit.java:44)
+	at net.sourceforge.pmd.lang.java.typeresolution.TypeResolutionFacade.initializeWith(TypeResolutionFacade.java:21)
+	at net.sourceforge.pmd.lang.java.AbstractJavaHandler$5.start(AbstractJavaHandler.java:121)
+	at net.sourceforge.pmd.SourceCodeProcessor.usesTypeResolution(SourceCodeProcessor.java:178)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSource(SourceCodeProcessor.java:205)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:118)
+	... 10 more
+]]>
+</error>
+<error filename="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/modi/TraditionalComponent.java" msg="PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/modi/TraditionalComponent.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/modi/TraditionalComponent.java
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:85)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:29)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 29932 out of bounds for length 10655
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.sourceforge.pmd.lang.java.typeresolution.PMDASMClassLoader.getImportedClasses(PMDASMClassLoader.java:118)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.populateClassName(ClassTypeResolver.java:1617)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.visit(ClassTypeResolver.java:214)
+	at net.sourceforge.pmd.lang.java.ast.ASTCompilationUnit.jjtAccept(ASTCompilationUnit.java:44)
+	at net.sourceforge.pmd.lang.java.typeresolution.TypeResolutionFacade.initializeWith(TypeResolutionFacade.java:21)
+	at net.sourceforge.pmd.lang.java.AbstractJavaHandler$5.start(AbstractJavaHandler.java:121)
+	at net.sourceforge.pmd.SourceCodeProcessor.usesTypeResolution(SourceCodeProcessor.java:178)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSource(SourceCodeProcessor.java:205)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:118)
+	... 10 more
+]]>
+</error>
+<error filename="/home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/util/ComponentsLoader.java" msg="PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/util/ComponentsLoader.java">
+<![CDATA[net.sourceforge.pmd.PMDException: Error while processing /home/alumno/sakai/kernel/component-manager/src/main/java/org/sakaiproject/util/ComponentsLoader.java
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:128)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:100)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCode(SourceCodeProcessor.java:62)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:85)
+	at net.sourceforge.pmd.processor.PmdRunnable.call(PmdRunnable.java:29)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 52216 out of bounds for length 7898
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.sourceforge.pmd.lang.java.typeresolution.PMDASMClassLoader.getImportedClasses(PMDASMClassLoader.java:118)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.populateClassName(ClassTypeResolver.java:1617)
+	at net.sourceforge.pmd.lang.java.typeresolution.ClassTypeResolver.visit(ClassTypeResolver.java:214)
+	at net.sourceforge.pmd.lang.java.ast.ASTCompilationUnit.jjtAccept(ASTCompilationUnit.java:44)
+	at net.sourceforge.pmd.lang.java.typeresolution.TypeResolutionFacade.initializeWith(TypeResolutionFacade.java:21)
+	at net.sourceforge.pmd.lang.java.AbstractJavaHandler$5.start(AbstractJavaHandler.java:121)
+	at net.sourceforge.pmd.SourceCodeProcessor.usesTypeResolution(SourceCodeProcessor.java:178)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSource(SourceCodeProcessor.java:205)
+	at net.sourceforge.pmd.SourceCodeProcessor.processSourceCodeWithoutCache(SourceCodeProcessor.java:118)
+	... 10 more
+]]>
+</error>
+</pmd>
