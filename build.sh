@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Definir variables
-PROJECT_DIR="/home/alumno/sakai/kernel"
+PROJECT_DIR="./kernel"
 LOG_FILE="$PROJECT_DIR/build.log"
 
 # Cambiar al directorio del proyecto
